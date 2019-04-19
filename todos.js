@@ -38,7 +38,7 @@ const todos = [
     {
         'name': 'nodjs 공부하기',
         'tags': ['programming', 'nodjs'],
-        'status': 'done',
+        'statuupdas': 'done',
         'id': 12123128
     },
     {
